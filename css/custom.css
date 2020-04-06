@@ -1,1 +1,16 @@
 /* Your custom css code goes here */
+.probootstrap-header {
+  padding-top: 40px;
+  padding-bottom: 30px;
+  width: 100%;
+  z-index: 12;
+  position: relative;
+  background: #F2F2F2;
+  top: 0;
+}
+
+.probootstrap-section {
+  padding: 2em 0 9em 0;
+  position: relative;
+  z-index: 2;
+}
